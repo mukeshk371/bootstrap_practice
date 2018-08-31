@@ -1,0 +1,39 @@
+li:nth-child(1) {
+    color: pink;
+}
+
+li:nth-child(even) {
+    color: green;
+}
+
+a:link {
+    color: aqua;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+
+a {
+    background:
+}
+
+dt {
+    color: blue;
+}
+
+dd:nth-of-type(odd) {
+    color: red;
+}
+
+dd:nth-of-type(even) {
+    color: green;
+}
